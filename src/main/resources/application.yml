@@ -9,3 +9,4 @@ app:
   security:
     jwt:
       secret-key: 448a330a3e6b51970a4f789b9378c05fd2892e05ee05fe1522657503ba235600
+      expiration: 86400000 # 1 day
